@@ -14,3 +14,10 @@
     margin-bottom: 20px;
     border-radius: 6px;
 }
+
+#active{
+    color: green;
+}
+#notActive{
+    color: red;
+}
